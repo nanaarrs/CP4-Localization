@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: mainMenuBT_en-GB
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en-GB
+  m_SharedData: {fileID: 11400000, guid: ac213c7ab90fda1428c264e40e8bbc33, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 41206759424
+    m_Localized: Load Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46256701440
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51256311808
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55651942400
+    m_Localized: Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59506507776
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76677988352
+    m_Localized: Idiom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78779334656
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80700325888
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
